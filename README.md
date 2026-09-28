@@ -53,4 +53,16 @@ Investigate the root causes for recurring revenue dips in 2025, 2029, 2031, and 
 - **Analyze Spikes** Find the main causes for localized spikes in the West to see how this area's revenue can be stabilized
 - **Mitigate downturn** Audit the 2034 downturns for the East, North, and South to apply local stabilization strategies
 
+### Total Revenue by Product Category
+<img width="477" height="298" alt="TotalRevProduct" src="https://github.com/user-attachments/assets/cac6d113-e894-4f6c-9e31-64184062f008" />
+
+**Core Trend:** Electronics generated the highest revenue at $1.7M, followed by Clothing at $1.4M. Home brought in $0.9M ($937K), and Beauty was the lowest performing category at $0.7M ($734k). 
+
+**Next Steps**
+It is recommended that we maintain our high performers by exploring what is the reason for such high success, while also looking into raising the revenue of Home and Beauty. A good example would be to use the cross-selling method especially for holidays where we can choose a theme and market products in each category.
+
+
+
+
+
 
