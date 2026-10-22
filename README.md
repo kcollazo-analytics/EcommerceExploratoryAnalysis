@@ -1,8 +1,19 @@
 <h1 align= "center"> 
-  Ecommerce_ExploratoryAnalysis_GS </h1>
+  Sales Performance and Customer Satisfaction Analysis </h1>
+
+
+  <img width="1400" height="600" alt="Screen Shot 2026-10-22 at 1 25 57 PM" src="https://github.com/user-attachments/assets/72acc3ce-db1e-4b55-b777-90e9769a5261" />
+
  
-## Introduction
-This is an exploratory data analysis (EDA) of a synthetic e-commerce dataset with a timeline that ranges from 2022 - 2035. The dataset is sourced from Kaggle and the project is conducted entirely in Google Sheets. The analysis focuses on transforming the raw transactional data into actionable business insight using spreadsheet functions and pivot tables. 
+## Executive Summary
+This is an exploratory data analysis (EDA) of a synthetic e-commerce dataset with a timeline that ranges from 2022 - 2035. The dataset is sourced from Kaggle and the project is conducted entirely in Google Sheets. The analysis focuses on transforming the raw transactional data into actionable business insight using spreadsheet functions and pivot tables. After careful analysis it can be concluded that this e-commerce store is steadily increasing its annual revenue and it has a large variety of customer ratings across the 1-5 scale with the majority landing in the Electronics and Clothing categories. 
+
+## Business Problem
+This analysis was conducted to gain an understanding of the overall sales performance of the E-commerce store throughout the years while also having a focus on the customer satisfaction rates. This was done by studying the following topica:
+- Total Revenue for each year in business
+- Revenue by geographical region
+- Total Revenue by Category
+- Customer Ratings
 
 ## Data Transformation
 After creating a copy of the original dataset onto a new sheet, I confirmed that the data from Kaggle was clean. Using the Data Cleaning tools, I made sure that there were no duplicates, random whitespaces, or nulls. Additionally, I updated the formatting for dollar amounts in the proper columns. Lastly, 2035 data has been omitted from this analysis to avoid skewing annual trends with incomplete, partial-year data.
