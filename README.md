@@ -1,5 +1,5 @@
 <h1 align= "center"> 
-  Sales Performance and Customer Satisfaction Analysis </h1
+  Sales Performance and Customer Satisfaction Analysis </h1>
 
 
 ## Executive Summary
@@ -52,14 +52,13 @@ By using the information from the pivot tables, I was able to create various cha
 ### Annual Revenue by Region 
 <img width="709" height="437" alt="AnnualRevenueRegion" src="https://github.com/user-attachments/assets/1290f080-1137-44e4-9a84-3833e5c27295" />
 
-- **Core Trend:** The overall data is highly volatile as it stays clustered between $75,000 and $115,000. There are many intersections and no universal growth or decline trend.
+- **Core Trend:** The overall data stays clustered between $75,000 and $115,000. There are many intersections and no universal growth or decline trend.
 - **South Region:** Demonstrates steady long-term revenue increase
 - **West Region:** Contains noticeable revenue spikes between 2026-2028 and a resurgence in 2034
 - **North Region:** Used to be the largest market in 2022 but contracted since then. It hit a significant low of $79,462.82 in 2031 before a brief recovery in 2033 with $108,414.53
 - **East Region:** Tracked closest to the overall median performance, but fell to the lowest overall position in 2034 at $71,690.17
 
 **Next steps:**
-- **Replicate Success:** Study operational factors to maintain Southern success and identify scalable practices that can be applied to other regions
 - **Analyze Spikes** Find the main causes for localized spikes in the West to see how this area's revenue can be stabilized
 - **Mitigate downturn** Audit the 2034 downturns for the East, North, and South to apply local stabilization strategies
 
@@ -69,7 +68,8 @@ By using the information from the pivot tables, I was able to create various cha
 **Core Trend:** Electronics generated the highest revenue at $1.7M, followed by Clothing at $1.4M. Home brought in $0.9M ($937K), and Beauty was the lowest performing category at $0.7M ($734k). 
 
 **Next Steps**
-It is recommended that we maintain our high performers by exploring what is the reason for such high success, while also looking into raising the revenue of Home and Beauty. A good example would be to use the cross-selling method especially for holidays where we can choose a theme and market products in each category.
+-**Study Success and Failures** Understand why Electronics and Clothing outperform Health and Beauty. Is it marketing techniques, product availability, the main niche of the brand?
+-**Cross-Selling Method** Market products from different categories together to shine light on the slow moving merchandise. 
 
 ### Customer Ratings
 <img width="483" height="295" alt="CustomerReviews" src="https://github.com/user-attachments/assets/a1a10774-ae59-4ad1-99b8-4865cddbac5a" />
@@ -79,13 +79,12 @@ It is recommended that we maintain our high performers by exploring what is the 
 Electronics has the largest amount of customer ratings across each group. It is followed closely by the Clothing category. We then see Home with the third highest amount of ratings and lastly the Beauty category. 
 
 **Next Steps**
-The data suggests that the reviews match the pattern of Total Revenue by Category. We can thus infer that this E-commerce company is mostly known for its Electronic products. 
+-**Electronics** Study why most of the electronic reviews are in the 2-4 range.  
+-**Increase Purchases of Other Product Categories** Understand the customer's demands so that we may increase revenue through those pipelines as well. 
 
-It is recommended to study the reviews further to understand why most of the electronic reviews are in the 2-4 range.  
+## Conclusion
 
-Additionally, we may want to see about expanding in the other categories by understanding the customers demands so that we may increase revenue through those pipelines as well. 
-
-By understanding critiques and demands, we can build trust in the brand and increase customer retention.
+The exploratory analysis of this E-commerce dataset has shown that this company in question is increasing its revenue year after year. The different regions that the company sells to have unique sales patterns and it is recommended that different teams tackle the needs of each region. The different product categories have unique performance data as well and should be studied alongside the customer reviews to ensure the highest customer satisfaction score possible for the company as a whole. 
 
 
 
