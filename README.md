@@ -1,43 +1,42 @@
 <h1 align= "center"> 
-  Sales Performance and Customer Satisfaction Analysis </h1>
+  Sales Performance and Customer Satisfaction Analysis </h1
 
 
-  <img width="1400" height="600" alt="Screen Shot 2026-10-22 at 1 25 57 PM" src="https://github.com/user-attachments/assets/72acc3ce-db1e-4b55-b777-90e9769a5261" />
-
- 
 ## Executive Summary
-This is an exploratory data analysis (EDA) of a synthetic e-commerce dataset with a timeline that ranges from 2022 - 2035. The dataset is sourced from Kaggle and the project is conducted entirely in Google Sheets. The analysis focuses on transforming the raw transactional data into actionable business insight using spreadsheet functions and pivot tables. After careful analysis it can be concluded that this e-commerce store is steadily increasing its annual revenue and it has a large variety of customer ratings across the 1-5 scale with the majority landing in the Electronics and Clothing categories. 
+This is an exploratory data analysis (EDA) of a synthetic e-commerce dataset with the timeline from 2022 - 2035. The analysis focuses on transforming the raw transactional data into actionable business insight using spreadsheet functions and pivot tables. After careful analysis it can be concluded that this e-commerce store is steadily increasing its annual revenue. The dataset also has a multitude of customer ratings across all categories with the majority landing in the Electronics and Clothing categories. 
 
 ## Business Problem
-This analysis was conducted to gain an understanding of the overall sales performance of the E-commerce store throughout the years while also having a focus on the customer satisfaction rates. This was done by studying the following topica:
-- Total Revenue for each year in business
-- Revenue by geographical region
-- Total Revenue by Category
-- Customer Ratings
+This analysis was conducted to gain an understanding of the overall sales performance of the E-commerce store throughout the years while also having a focus on the customer satisfaction rates. This was done by answering the following questions:
+- What is the total revenue for each year in business?
+- How did the revenue differ across the different geographical regions?
+- How does the revenue earned differ for each product category?
+- What are the customer ratings throughout the product categories?
 
-## Data Transformation
-After creating a copy of the original dataset onto a new sheet, I confirmed that the data from Kaggle was clean. Using the Data Cleaning tools, I made sure that there were no duplicates, random whitespaces, or nulls. Additionally, I updated the formatting for dollar amounts in the proper columns. Lastly, 2035 data has been omitted from this analysis to avoid skewing annual trends with incomplete, partial-year data.
+## Data Preparation
+The E-commerce dataset is sourced from Kaggle; it contains 12 columns and 4991 rows. 
+
+After creating a copy of the original dataset onto a new sheet, I performed data sanitation and validation techniques. Using the Data Cleaning tools, I made sure that there were no duplicates, random whitespaces, or nulls. Additionally, I standardized the formatting for dollar amounts in the necessary columns. Lastly, 251 rows of data have been omitted from this analysis to avoid skewing annual trends with incomplete, partial-year data.
 
 ## Data Analysis
-The next step in my process consisted of creating pivot tables. I made them with the intention of answering various questions that will lead to a better understanding of the overall dataset. 
+The next step in my process consisted of creating pivot tables that would pull together the data to answer the questions above. 
 
-**1. How has the revenue changed among the different regions from 2022 to 2034?**
+**Yearly Revenue across different locations**
    
 <img width="608" height="339" alt="RevenueByRegion" src="https://github.com/user-attachments/assets/2bc73b38-a71b-45e5-8e16-8d7e06092cbe" />
 
 
-**2. How has the revenue changed among the different product categories from 2022 to 2034?**
+**Yearly Revenue across different product categories**
 
 <img width="607" height="341" alt="RevenueByProductCategory" src="https://github.com/user-attachments/assets/3353a7b0-8358-411a-9665-d2d2157a00f9" />
 
   
-**3. How many reviews are there for each product category? How does rating volume across different tiers differ by product category?**
+**3. What are the customer ratings throughout the product categories?**
 
 <img width="607" height="149" alt="RatingsForProductCategory" src="https://github.com/user-attachments/assets/cbc8f37f-8aaf-49b6-bc71-80a02b83f09d" />
 
 ## Data Visualization
 
-By using the information from the pivot tables, I was able to create various charts that help explain important aspects about the ecommerce dataset. 
+By using the information from the pivot tables, I was able to create various charts that help explain important aspects about the E-commerce dataset. 
 
 ### Annual Revenue Totals
 <img width="473" height="290" alt="AnnualRevenueTotals" src="https://github.com/user-attachments/assets/a79aa3ea-dc0b-41d3-bcef-3cd2fa217b4a" />
