@@ -47,8 +47,8 @@ By using the information from the pivot tables, I was able to create various cha
 - **Peak Performance:** Maximum revenue was $408,725.72 in 2033
 
 **Next Steps:** 
-Investigate the root causes for recurring revenue dips in 2025, 2029, 2031, and 2034. Revenue does recover after each drop and so we see the steady increase in the trendline, however stabilizing these fluctuations provides an opportunity to even out cash flow and rise above the $408k ceiling.
-
+- **Revenue Dips** Investigate the root causes for recurring revenue dips in 2025, 2029, 2031, and 2034 to stabilize fluctuations
+  
 ### Annual Revenue by Region 
 <img width="709" height="437" alt="AnnualRevenueRegion" src="https://github.com/user-attachments/assets/1290f080-1137-44e4-9a84-3833e5c27295" />
 
@@ -79,13 +79,15 @@ It is recommended that we maintain our high performers by exploring what is the 
 Electronics has the largest amount of customer ratings across each group. It is followed closely by the Clothing category. We then see Home with the third highest amount of ratings and lastly the Beauty category. 
 
 **Next Steps**
-The data suggests that the reviews match the pattern of Total Revenue by Category. We can thus infer that this ecommerce company is mostly known for its Electronic products. 
+The data suggests that the reviews match the pattern of Total Revenue by Category. We can thus infer that this E-commerce company is mostly known for its Electronic products. 
 
 It is recommended to study the reviews further to understand why most of the electronic reviews are in the 2-4 range.  
 
 Additionally, we may want to see about expanding in the other categories by understanding the customers demands so that we may increase revenue through those pipelines as well. 
 
-By understanding critiques and demands, we can build trust in the brand and increase customer retetioin. 
+By understanding critiques and demands, we can build trust in the brand and increase customer retention.
+
+
 
 
 
