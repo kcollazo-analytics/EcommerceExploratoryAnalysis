@@ -59,8 +59,9 @@ By using the information from the pivot tables, I was able to create various cha
 - **East Region:** Tracked closest to the overall median performance, but fell to the lowest overall position in 2034 at $71,690.17
 
 **Next steps:**
-- **Analyze Spikes** Find the main causes for localized spikes in the West to see how this area's revenue can be stabilized
-- **Mitigate downturn** Audit the 2034 downturns for the East, North, and South to apply local stabilization strategies
+
+**Analyze Spikes** Find the main causes for localized spikes in the West to see how this area's revenue can be stabilized
+**Mitigate downturn** Audit the 2034 downturns for the East, North, and South to apply local stabilization strategies
 
 ### Total Revenue by Category
 <img width="477" height="298" alt="TotalRevProduct" src="https://github.com/user-attachments/assets/cac6d113-e894-4f6c-9e31-64184062f008" />
@@ -68,8 +69,10 @@ By using the information from the pivot tables, I was able to create various cha
 **Core Trend:** Electronics generated the highest revenue at $1.7M, followed by Clothing at $1.4M. Home brought in $0.9M ($937K), and Beauty was the lowest performing category at $0.7M ($734k). 
 
 **Next Steps**
--**Study Success and Failures** Understand why Electronics and Clothing outperform Health and Beauty. Is it marketing techniques, product availability, the main niche of the brand?
--**Cross-Selling Method** Market products from different categories together to shine light on the slow moving merchandise. 
+
+**Study Success and Failures** Understand why Electronics and Clothing outperform Health and Beauty. Is it marketing techniques, product availability, the main niche of the brand?
+
+**Cross-Selling Method** Market products from different categories together to shine light on the slow moving merchandise. 
 
 ### Customer Ratings
 <img width="483" height="295" alt="CustomerReviews" src="https://github.com/user-attachments/assets/a1a10774-ae59-4ad1-99b8-4865cddbac5a" />
@@ -79,8 +82,10 @@ By using the information from the pivot tables, I was able to create various cha
 Electronics has the largest amount of customer ratings across each group. It is followed closely by the Clothing category. We then see Home with the third highest amount of ratings and lastly the Beauty category. 
 
 **Next Steps**
--**Electronics** Study why most of the electronic reviews are in the 2-4 range.  
--**Increase Purchases of Other Product Categories** Understand the customer's demands so that we may increase revenue through those pipelines as well. 
+
+**Electronics** Study why most of the electronic reviews are in the 2-4 range. 
+
+**Increase Revenue for Other Categories** Understand the customer's demands so that we may increase revenue through other pipelines as well. 
 
 ## Conclusion
 
