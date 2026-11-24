@@ -14,7 +14,7 @@ This analysis was conducted to gain an understanding of the store’s overall sa
 
 
 ## Data Preparation
-The E-commerce dataset is sourced from Kaggle; it contains 12 columns and 4991 rows. 
+The e-commerce dataset is sourced from Kaggle; it contains 12 columns and 4991 rows. 
 
 After creating a copy of the original dataset onto a new sheet, I performed data sanitation and validation techniques. Using the Data Cleaning tools, I made sure that there were no duplicates, random whitespaces, or nulls that would affect the result. Additionally, I standardized the formatting for dollar amounts in the necessary columns. Lastly, 251 rows of data have been omitted from this analysis to avoid skewing annual trends with incomplete, partial-year data.
 
@@ -92,7 +92,7 @@ Electronics has the largest amount of customer ratings across each group. It is 
 
 ## Conclusion
 
-The exploratory analysis of this E-commerce dataset has shown that this company in question is increasing its revenue year after year. The different regions that the company sells to have unique sales patterns and it is recommended that different teams tackle the needs of each region. The different product categories have unique performance data as well and should be studied alongside the customer reviews to ensure stable sales performance and high customer satisfaction rates. 
+The exploratory analysis of this e-commerce dataset has shown that this company in question is increasing its revenue year after year. The different regions that the company sells to have unique sales patterns and it is recommended that different teams tackle the needs of each region. The different product categories have unique performance data as well and should be studied alongside the customer reviews to ensure stable sales performance and high customer satisfaction rates. 
 
 
 
